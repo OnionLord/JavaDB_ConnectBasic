@@ -7,8 +7,8 @@ public class Java_HW2 {
 		int result;
 		
 		String url = "jdbc:oracle:thin:@localhost:1521:jeongdojeon";
-		String user = "kdhong";
-		String pass = "kdhong";
+		String user = "jeongdojeon";
+		String pass = "jeongdojeon";
 		
 		String query = null;
 		
